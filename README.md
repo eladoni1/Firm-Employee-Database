@@ -7,17 +7,17 @@ Walkthrough on how to set up the DB :
 
 
 
-<img src="https://raw.githubusercontent.com/eladoni1/Firm-Employee-Database/main/ReadMePhotos/1.png" alt="Download Mongo Compass" width="800"/>
+<img src="https://raw.githubusercontent.com/eladoni1/Firm-Employee-Database/main/ReadMePhotos/1.png" alt="Download Mongo Compass" width="600"/>
 
 
 
 2) Go to [MongoDB site](https://www.mongodb.com) and make a new empty cluster using MongoDB Atlas.
 
 
-<img src="https://raw.githubusercontent.com/eladoni1/Firm-Employee-Database/main/ReadMePhotos/2.png" alt="Create Account" width="800"/>
+<img src="https://raw.githubusercontent.com/eladoni1/Firm-Employee-Database/main/ReadMePhotos/2.png" alt="Create Account" width="600"/>
 
 
-<img src="https://raw.githubusercontent.com/eladoni1/Firm-Employee-Database/main/ReadMePhotos/3.png" alt="Create new cluster" width="800"/>
+<img src="https://raw.githubusercontent.com/eladoni1/Firm-Employee-Database/main/ReadMePhotos/3.png" alt="Create new cluster" width="600"/>
 
 
 
@@ -25,11 +25,11 @@ Walkthrough on how to set up the DB :
 
 
   
-<img src="https://raw.githubusercontent.com/eladoni1/Firm-Employee-Database/main/ReadMePhotos/4.png" alt="Connection link 1" width="800"/>
+<img src="https://raw.githubusercontent.com/eladoni1/Firm-Employee-Database/main/ReadMePhotos/4.png" alt="Connection link 1" width="600"/>
 
 
 
-<img src="https://raw.githubusercontent.com/eladoni1/Firm-Employee-Database/main/ReadMePhotos/5.png" alt="Connection link 2" width="800"/>
+<img src="https://raw.githubusercontent.com/eladoni1/Firm-Employee-Database/main/ReadMePhotos/5.png" alt="Connection link 2" width="600"/>
   
   
 
@@ -45,7 +45,7 @@ Add few examples of each.
 
 
 
-<img src="https://raw.githubusercontent.com/eladoni1/Firm-Employee-Database/main/ReadMePhotos/6.png" alt="Adding new Collection" width="800"/>
+<img src="https://raw.githubusercontent.com/eladoni1/Firm-Employee-Database/main/ReadMePhotos/6.png" alt="Adding new Collection" width="600"/>
 
 
 
