@@ -5,11 +5,13 @@ Walkthrough on how to set up the DB :
 
 1) Download MongoDB Compass [here](https://www.mongodb.com/products/compass).
 
-2) Go to [MongoDB site](https://www.mongodb.com) and make a new empty cluster using MongoDB Atlas
+2) Go to [MongoDB site](https://www.mongodb.com) and make a new empty cluster using MongoDB Atlas.
 
-3) In MongoDB Atlas, copy the connection link and connect with MongoDB Compass
+3) In MongoDB Atlas, copy the connection link, and edit it (change '<password>' field) and connect with MongoDB Compass.
 
-4) Create new Database, then 2 new Collections - Employee and Department with the following variables :
+Note: You might need to add your IP Address in Network Access under Security tab.
+
+4) After creating a new Database, then 2 new Collections - Employee and Department with the following variables :
 
 Department - a) DepartmentId, b) DepartmentName
 
