@@ -37,9 +37,16 @@ Note: You might need to add your IP Address in Network Access under Security tab
 
 ### 4) After creating a new Database, then 2 new Collections - Employee and Department with the following variables :
 
-Department - a) DepartmentId, b) DepartmentName
+Department - 
+  a) DepartmentId
+  b) DepartmentName
 
-Employee - a) EmployeeId, b) EmployeeName, c) Department, d) DateOfJoining, e) PhotoFileName
+Employee - 
+  a) EmployeeId
+  b) EmployeeName
+  c) Department
+  d) DateOfJoining
+  e) PhotoFileName
 
 Add few examples of each.
 
