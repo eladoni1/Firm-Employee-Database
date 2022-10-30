@@ -60,13 +60,66 @@ Add few examples of each.
 We have implemented the following functions -
   
 #### Department:
+
   * Get - returns all departments.
+  
+  
+  
+  <img src="https://raw.githubusercontent.com/eladoni1/Firm-Employee-Database/main/ReadMePhotos/7.png" alt="Departments List" width="600"/>
+  
+  
+  
   * Post - add a new department.
+  
+  
+  
+  <img src="https://raw.githubusercontent.com/eladoni1/Firm-Employee-Database/main/ReadMePhotos/8.png" alt="Adding new Department" width="600"/>
+  
+  
+  
   * Put - edit a department's variables (DepartmentName).
+  
+  
+  
+  <img src="https://raw.githubusercontent.com/eladoni1/Firm-Employee-Database/main/ReadMePhotos/10.png" alt="Adding new Collection" width="600"/>
+  
+  
+  
   * Delete - deletes a department.
+  
+  
+  
+  <img src="https://raw.githubusercontent.com/eladoni1/Firm-Employee-Database/main/ReadMePhotos/11.png" alt="Adding new Collection" width="600"/>
+  
+  
   
 #### Employee:
   * Get - returns all employees.
+  
+  
+  
+  <img src="https://raw.githubusercontent.com/eladoni1/Firm-Employee-Database/main/ReadMePhotos/9.png" alt="Employees List" width="600"/>
+  
+  
+  
   * Post - add a new employee.
+  
+  
+  
+  <img src="https://raw.githubusercontent.com/eladoni1/Firm-Employee-Database/main/ReadMePhotos/14.png" alt="Adding new Collection" width="600"/>
+  
+  
+  
   * Put - edit an employee's variables (EmployeeName, Department, DateOfJoining, PhotoFileName).
+  
+  
+  
+  <img src="https://raw.githubusercontent.com/eladoni1/Firm-Employee-Database/main/ReadMePhotos/12.png" alt="Adding new Collection" width="600"/>
+  
+  
+  
   * Delete - deletes an employee.
+  
+  
+  
+  <img src="https://raw.githubusercontent.com/eladoni1/Firm-Employee-Database/main/ReadMePhotos/13.png" alt="Adding new Collection" width="600"/>
