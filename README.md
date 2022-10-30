@@ -37,16 +37,16 @@ Note: You might need to add your IP Address in Network Access under Security tab
 
 ### 4) After creating a new Database, then 2 new Collections - Employee and Department with the following variables :
 
-Department - 
-  a) DepartmentId
-  b) DepartmentName
+#### Department - 
+  * DepartmentId
+  * DepartmentName
 
-Employee - 
-  a) EmployeeId
-  b) EmployeeName
-  c) Department
-  d) DateOfJoining
-  e) PhotoFileName
+#### Employee - 
+  * EmployeeId
+  * EmployeeName
+  * Department
+  * DateOfJoining
+  * PhotoFileName
 
 Add few examples of each.
 
@@ -58,14 +58,15 @@ Add few examples of each.
 
 
 We have implemented the following functions -
-Department:
-  a) Get - returns all departments.
-  b) Post - add a new department.
-  c) Put - edit a department's variables (DepartmentName).
-  d) Delete - deletes a department.
   
-Employee:
-  a) Get - returns all employees.
-  b) Post - add a new employee.
-  c) Put - edit an employee's variables (EmployeeName, Department, DateOfJoining, PhotoFileName).
-  d) Delete - deletes an employee.
+#### Department:
+  * Get - returns all departments.
+  * Post - add a new department.
+  * Put - edit a department's variables (DepartmentName).
+  * Delete - deletes a department.
+  
+#### Employee:
+  * Get - returns all employees.
+  * Post - add a new employee.
+  * Put - edit an employee's variables (EmployeeName, Department, DateOfJoining, PhotoFileName).
+  * Delete - deletes an employee.
