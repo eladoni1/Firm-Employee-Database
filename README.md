@@ -6,30 +6,32 @@ Walkthrough on how to set up the DB :
 1) Download MongoDB Compass [here](https://www.mongodb.com/products/compass).
 
 
-![Download Mongo Compass](https://raw.githubusercontent.com/eladoni1/Firm-Employee-Database/main/ReadMePhotos/1.png)
 
-
-<img src="https://raw.githubusercontent.com/eladoni1/Firm-Employee-Database/main/ReadMePhotos/1.png" alt="Download Mongo Compass" width="200"/>
+<img src="https://raw.githubusercontent.com/eladoni1/Firm-Employee-Database/main/ReadMePhotos/1.png" alt="Download Mongo Compass" width="800"/>
 
 
 
 2) Go to [MongoDB site](https://www.mongodb.com) and make a new empty cluster using MongoDB Atlas.
 
 
-![Create Account](https://raw.githubusercontent.com/eladoni1/Firm-Employee-Database/main/ReadMePhotos/2.png)
+<img src="https://raw.githubusercontent.com/eladoni1/Firm-Employee-Database/main/ReadMePhotos/2.png" alt="Create Account" width="800"/>
 
 
+<img src="https://raw.githubusercontent.com/eladoni1/Firm-Employee-Database/main/ReadMePhotos/3.png" alt="Create new cluster" width="800"/>
 
-![Create new cluster](https://raw.githubusercontent.com/eladoni1/Firm-Employee-Database/main/ReadMePhotos/3.png)
+
 
 3) In MongoDB Atlas, copy the connection link, and edit it (change '<password>' field) and connect with MongoDB Compass.
 
 
-![Connection link 1](https://raw.githubusercontent.com/eladoni1/Firm-Employee-Database/main/ReadMePhotos/4.png)
+  
+<img src="https://raw.githubusercontent.com/eladoni1/Firm-Employee-Database/main/ReadMePhotos/4.png" alt="Connection link 1" width="800"/>
 
 
 
-![Connection link 2](https://raw.githubusercontent.com/eladoni1/Firm-Employee-Database/main/ReadMePhotos/5.png)
+<img src="https://raw.githubusercontent.com/eladoni1/Firm-Employee-Database/main/ReadMePhotos/5.png" alt="Connection link 2" width="800"/>
+  
+  
 
 Note: You might need to add your IP Address in Network Access under Security tab.
 
@@ -43,7 +45,7 @@ Add few examples of each.
 
 
 
-![Adding new Collection](https://raw.githubusercontent.com/eladoni1/Firm-Employee-Database/main/ReadMePhotos/6.png)
+<img src="https://raw.githubusercontent.com/eladoni1/Firm-Employee-Database/main/ReadMePhotos/6.png" alt="Adding new Collection" width="800"/>
 
 
 
