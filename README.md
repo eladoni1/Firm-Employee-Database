@@ -3,7 +3,7 @@ Backend - .NET 5, Frontend - Vue.js, /w MongoDB
 
 Walkthrough on how to set up the DB :
 
-1) Download MongoDB Compass [here](https://www.mongodb.com/products/compass).
+### 1) Download MongoDB Compass [here](https://www.mongodb.com/products/compass).
 
 
 
@@ -11,7 +11,7 @@ Walkthrough on how to set up the DB :
 
 
 
-2) Go to [MongoDB site](https://www.mongodb.com) and make a new empty cluster using MongoDB Atlas.
+### 2) Go to [MongoDB site](https://www.mongodb.com) and make a new empty cluster using MongoDB Atlas.
 
 
 <img src="https://raw.githubusercontent.com/eladoni1/Firm-Employee-Database/main/ReadMePhotos/2.png" alt="Create Account" width="600"/>
@@ -21,7 +21,7 @@ Walkthrough on how to set up the DB :
 
 
 
-3) In MongoDB Atlas, copy the connection link, and edit it (change '<password>' field) and connect with MongoDB Compass.
+### 3) In MongoDB Atlas, copy the connection link, and edit it (change '<password>' field) and connect with MongoDB Compass.
 
 
   
@@ -35,7 +35,7 @@ Walkthrough on how to set up the DB :
 
 Note: You might need to add your IP Address in Network Access under Security tab.
 
-4) After creating a new Database, then 2 new Collections - Employee and Department with the following variables :
+### 4) After creating a new Database, then 2 new Collections - Employee and Department with the following variables :
 
 Department - a) DepartmentId, b) DepartmentName
 
