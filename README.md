@@ -110,6 +110,7 @@ We have implemented the following functions -
   
   
   
+  
   * Put - edit an employee's variables (EmployeeName, Department, DateOfJoining, PhotoFileName).
   
   
