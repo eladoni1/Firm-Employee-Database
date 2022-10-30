@@ -4,7 +4,11 @@ Backend - .NET 5, Frontend - Vue.js, /w MongoDB
 Walkthrough on how to set up the DB :
 
 1) Download MongoDB Compass [here](https://www.mongodb.com/products/compass).
+
+
 ![Download Mongo Compass](https://raw.githubusercontent.com/eladoni1/Firm-Employee-Database/main/ReadMePhotos/1.png)
+
+
 
 2) Go to [MongoDB site](https://www.mongodb.com) and make a new empty cluster using MongoDB Atlas.
 
